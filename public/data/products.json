@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Pin Jonas Brothers",
+    "description": "Pin de los Jonas Brothers Confeccionado en pin metalico con imagenes brillantes en distintos colores. Se confeccionan a pedido. Tamaño 56mm",
+    "price": 1500,
+    "image": "/img/pin-jonas.png"
+  },
+  {
+    "id": 2,
+    "name": "Pin BTS",
+    "description": "Pin del logo de BTS. Confeccionado en pin metalidco con imagenes billantes en distintos colores. Se confeccionan a pedido. Tamalo 56mm.",
+    "price": 1500,
+    "image": "/img/pin-bts.png"
+  },
+  {
+    "id": 3,
+    "name": "Pin 5SOS",
+    "description": "Pin de 5SOS . Confeccionado en pin metalico con imagen brillante en distintos colores. Se confeccionan a pedido . Tamaño 56mm.",
+    "price": 1500,
+    "image": "/img/pin-5sos.png"
+  },
+  {
+    "id": 4,
+    "name": "Pin Slam Dunk",
+    "description": "Pin Shohoku del anime Slam Dunk. Confeccionados en pin metalico  con imagenes brillantes den distintos colores.Medida 56mm",
+    "price": 2000,
+    "image": "/img/pin-slamdunk.png"
+  },
+  {
+    "id": 5,
+    "name": "Entradas recuerdo Airbag",
+    "description": "En un mundo digital te confeccionamos una entrada en papel ilustracion como recuerdo de los recitales y eventos  a los que asististe.Confeccionados en papel ilustracions.",
+    "price": 1000,
+    "image": "/img/EntradasRecuerdo-Airbag.png"
+  },
+  {
+    "id": 6,
+    "name": "Entrada Recuerdo Taylor Swift",
+    "description": "En un mundo digital te confeccionamos una entrada en papel ilustracion como recuerdo de los recitales y eventos  a los que asististe.Confeccionados en papel ilustracions.",
+   "price": 1000,
+    "image": "/img/EntradasRecuerdo-Taylor.png"
+
+  },
+   {
+    "id": 7,
+    "name": "Entradas recuerdo Big Time Rush",
+    "description": "En un mundo digital te confeccionamos una entrada en papel ilustracion como recuerdo de los recitales y eventos  a los que asististe.Confeccionados en papel ilustracions.",
+    "price": 1000,
+    "image": "/img/EntradasRecuerdo-BTR.png"
+  },
+  {
+    "id": 8,
+    "name": "Entrada Recuerdo Jonas Brothers",
+    "description": "En un mundo digital te confeccionamos una entrada en papel ilustracion como recuerdo de los recitales y eventos  a los que asististe.Confeccionados en papel ilustracions.",
+   "price": 1000,
+    "image": "/img/EntradasRecuerdo-Jonas1.png"
+
+  }
+]
