@@ -52,7 +52,7 @@ export const CartProvider = ({children}) => {
         navigate("/");
     };
 
-    const values = {clearCart, addItem, removeItem,getTotalItems,getCartTotal,checkout,};
+    const values = {cart,clearCart, addItem, removeItem,getTotalItems,getCartTotal,checkout};
     return <CartContext.Provider value= {values}>
         {children}
     </CartContext.Provider>
